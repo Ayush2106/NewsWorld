@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WorldEverywhere/static/css/main.abd64e84.css",
+    "main.js": "/WorldEverywhere/static/js/main.247dfb59.js",
+    "static/js/787.e7c298fb.chunk.js": "/WorldEverywhere/static/js/787.e7c298fb.chunk.js",
+    "index.html": "/WorldEverywhere/index.html",
+    "main.abd64e84.css.map": "/WorldEverywhere/static/css/main.abd64e84.css.map",
+    "main.247dfb59.js.map": "/WorldEverywhere/static/js/main.247dfb59.js.map",
+    "787.e7c298fb.chunk.js.map": "/WorldEverywhere/static/js/787.e7c298fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.247dfb59.js"
+  ]
+}
